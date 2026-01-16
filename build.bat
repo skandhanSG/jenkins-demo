@@ -6,6 +6,9 @@ echo.
 echo This is running from Windows
 echo.
 echo Auto trigger test from Jenkins
+echo.
+echo Jenkins testing
+echo.
 echo Current Directory:
 cd
 echo.
